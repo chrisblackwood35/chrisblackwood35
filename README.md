@@ -3,7 +3,7 @@
 ![github_cover_banner](https://user-images.githubusercontent.com/87551584/241324145-eb73076b-70a0-4e2f-bb21-62f69763103d.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Data Science developer.
+    Advertising professional with 15 years of experience and expertise in the fields of advertising, marketing, data analysis, and data science. 
 <br>
 </p>    
 <br>
