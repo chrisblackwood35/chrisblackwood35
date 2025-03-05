@@ -3,7 +3,7 @@
 ![github_cover_banner](https://user-images.githubusercontent.com/87551584/241328810-af081e9e-3990-4c8d-9eba-6354dbd139b3.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    Advertising and data analyst professional with 15 years of experience and expertise in the fields of advertising, marketing, data analysis and data science. 
+    Advertising and data scientist professional with 15 years of experience and expertise in the fields of advertising, marketing, data analysis and data science. 
 <br>
 </p>    
 <br>
