@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Sergio Sperb </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Chris Blackwood </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/87551584/241328810-af081e9e-3990-4c8d-9eba-6354dbd139b3.gif)
 
